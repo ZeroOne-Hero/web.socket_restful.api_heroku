@@ -17,6 +17,10 @@ It is recommended to use environment-specific methods for managing sensitive con
       For production:
     - npm start
 
+Alternatively, for a live demo, please visit the deployed application on Heroku:
+
+https://radiant-dusk-41601-a18d430fdc97.herokuapp.com/
+
 **PROJECT DESCRIPTION**
 
 # WebSocket & RESTful API Server
