@@ -6,9 +6,7 @@
   "scripts": {
     "start": "node server/index.js",
     "dev": "nodemon server/index.js",
-    "lint": "eslint .",
-    "postinstall": "npm run build",
-    "build": "cd app && npm install && npm run build"
+    "lint": "eslint ."
   },
   "keywords": [],
   "author": "",
