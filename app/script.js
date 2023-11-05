@@ -1,6 +1,6 @@
 // Initialize a new WebSocket connection to the server at the specified URL.
 // const ws = new WebSocket('ws://localhost:3003');
-const ws = new WebSocket('wss://secret-tor-09871-56aacdfc672e.herokuapp.com');
+const ws = new WebSocket('wss://guarded-thicket-11372-71bd1d0ff449.herokuapp.com');
 
 // Get references to DOM elements that will display messages and accept user input.
 const messagesList = document.getElementById('messages');
